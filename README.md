@@ -2,8 +2,7 @@
 There are easy but so useful commands for hacking and ctf chanllenge
 
 
-<br>
-<br>
+
 find file<br>
 `find / -type f -name 'user.txt' 2>/dev/null`
 
